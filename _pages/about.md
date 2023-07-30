@@ -13,13 +13,13 @@ profile:
     <p>123 your address street</p>
     <p>Your City, State 12345</p> -->
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-After obtaining my B.E.S. in Geomatics from the University of Waterloo, I pursued my passion for GIScience by successfully completing my M.Sc. at Western University under the supervision of [Jacek Malczewski](https://geoenvironment.uwo.ca/people/faculty/malczewski_jacek.html). I then worked as an Engineering Support Specialist at [Geotab](https://www.geotab.com/), troubleshooting telematics hardware and software to enhance the customer experience. Now, pursuing my doctoral degree under the guidance of [Grant McKenzie](https://www.mcgill.ca/geography/mckenzie) at McGill University, I explore the fields of behavioural geography, spatial data science, and privacy. As an experienced researcher and instructor with a proven track record in the information technology and services industry, I am Proficient in ArcGIS, Python, PostgreSQL, and technical support. 
+After obtaining my B.E.S. in Geomatics from the University of Waterloo, I pursued my passion for GIScience by successfully completing my M.Sc. at Western University under the supervision of [Jacek Malczewski](https://geoenvironment.uwo.ca/people/faculty/malczewski_jacek.html). I then worked as an Engineering Support Specialist at [Geotab](https://www.geotab.com/), troubleshooting telematics hardware and software to enhance the customer experience. Now, pursuing my doctoral degree under the guidance of [Grant McKenzie](https://www.mcgill.ca/geography/mckenzie) at McGill University, I explore the fields of behavioural geography, spatial data science, and privacy. As an experienced researcher and instructor with a proven track record in the information technology and services industry, I am proficient in ArcGIS, Python, SQL, and technical support. 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
