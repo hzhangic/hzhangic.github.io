@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Browse my publications for the latest insights in GIScience 
+description: Behavioral Geography • GIScience • Privacy • Place
 nav: true
 nav_order: 1
 ---
