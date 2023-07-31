@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CFP AAG 2023 - GeoAI and Deep Learning Symposium: Geoprivacy and Ethics in Geospatial Data and GeoAI 
-date: 2022-11-04 16:11:00-0400
+date: 2022-11-04 16:09:00-0400
 inline: false
 related_posts: false
 ---
@@ -34,7 +34,7 @@ While geospatial artificial intelligence (GeoAI), along with big data and high-p
 
 <b>Session type:</b> Paper
 
-Sponsored by: Digital Geographies Specialty Group, Geographic Information Science and Systems Specialty Group, Spatial Analysis and Modeling Specialty Group
+<b>Sponsored by:</b> Digital Geographies Specialty Group, Geographic Information Science and Systems Specialty Group, Spatial Analysis and Modeling Specialty Group
 
-<b>To be considered:<b>
-Please email paper titles, 250-word abstracts, author names/affiliations, and PIN to Hongyu Zhang (<a href=”mailto: hongyu.zhang@mcgill.ca”>hongyu.zhang@mcgill.ca</a>) by 20 November 2022. Please note that the current AAG abstract deadline is 10 November 2022.
+<b>To be considered:</b>
+Please email paper titles, 250-word abstracts, author names/affiliations, and PIN to Hongyu Zhang (<a href="mailto: hongyu.zhang@mcgill.ca">hongyu.zhang@mcgill.ca</a>) by 20 November 2022. Please note that the current AAG abstract deadline is 10 November 2022.
