@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <b>PhD Candidate</b> at <a href='https://www.mcgill.ca/geography/'>McGill Geography</a>
 

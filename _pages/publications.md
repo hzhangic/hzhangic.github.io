@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: Privacy • Place • GIScience
 nav: true
 nav_order: 1
