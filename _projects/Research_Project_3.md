@@ -23,9 +23,9 @@ category: research
     </div>
 </div>
 <div class="caption">
-    Divergence in Road Density: Green pixels indicate higher DMTI road density, pink pixels signify higher OSM road density, and yellow pixels indicate no difference. Cell size: 250m."
+    Divergence in Road Density: Green pixels indicate higher DMTI road density, pink pixels signify higher OSM road density, and yellow pixels indicate no difference. Cell size: 250m.
 </div>
 
 <b>Significance:</b> The findings of the map quality can potentially guide cartographic product selection for interested parties and offer a better understanding of future improvement of OSM quality. In addition, the study presents the OSM contributions influenced by data import and remote mapping.
 
-<b>Reference:</b> Zhang, H., & Malczewski, J. (2017). Accuracy evaluation of the Canadian OpenStreetMap road networks. <i>International Journal of Geospatial and Environmental Research, 5</i>(2).
+<b>Reference:</b> Zhang, H., & Malczewski, J. (2017). <a href='https://dc.uwm.edu/ijger/vol5/iss2/1/'>Accuracy evaluation of the Canadian OpenStreetMap road networks</a>. <i>International Journal of Geospatial and Environmental Research, 5</i>(2).
