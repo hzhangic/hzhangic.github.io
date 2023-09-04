@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project 1
-description: Geoprivacy Attitudes on Chinese Social Media
+title: Geoprivacy Attitudes on Chinese Social Media
+description: 
 img: assets/img/pexels-visual-tag-mx-5361247.jpg
 importance: 1
 category: Research

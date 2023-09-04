@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project 3
-description: Accuracy Evaluation of OpenStreetMap
+title: Accuracy Evaluation of OpenStreetMap
+description: 
 img: assets/img/pexels-johnmark-smith-32307.jpg
 importance: 3
 category: Research

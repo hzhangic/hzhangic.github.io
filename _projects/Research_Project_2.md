@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project 2
-description: The Geoprivacy Knowledge-Attitude-Behaviour Triad
+title: The Geoprivacy Knowledge-Attitude-Behaviour Triad
+description: 
 img: assets/img/pexels-kerde-severin-1542252.jpg
 importance: 2
 category: Research
