@@ -7,6 +7,12 @@ importance: 2
 category: Opinion
 ---
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/pexels-pixabay-261909.jpg" title="The Perils of a PhD Fast-Track" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 <b>Status:</b> Published
 
 Fast-tracking (direct admission to a PhD program from an undergraduate degree or transferring from a master’s degree) is becoming more and more popular. On paper, it sounds attractive to earn a PhD degree earlier in life; however, only those on the inside understand the challenges associated with completing a PhD program and only those who have made it to the other side appreciate what it really means for career progression. For those considering applying to a graduate program earlier in their academic career, I’d like to offer some thoughts based on my and other colleagues’ experiences on why it’s important to be cautious when choosing a fast-tracking option.

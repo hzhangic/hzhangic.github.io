@@ -7,6 +7,12 @@ importance: 3
 category: Opinion
 ---
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/pexels-emily-ranquist-1205651.jpg" title="Selecting GIScience Grad School Wisely" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 <b>Status:</b> Published 
 
 Applying to grad schools can be a big decision in your lifetime. Maybe you are a student who is inspired by a senior lecture and becomes interested in a certain research area; or maybe you are a working professional who wants to advance your career by extra degrees and knowledge. Regardless, a graduate program requires time, devotion, and preparations before you apply. This article shares tips in choosing grad schools with a GIS/Geomatics lens. 

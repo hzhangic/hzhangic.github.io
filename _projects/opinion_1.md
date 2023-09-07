@@ -1,17 +1,23 @@
 ---
 layout: page
-title: Reimagining GIScience Education for Enhanced Employability
+title: Reimagining GIScience Education 
 description: 
 img: assets/img/pexels-eva-bronzini-6956351.jpg
 importance: 1
 category: Opinion
 ---
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/pexels-eva-bronzini-6956351.jpg" title="Reimagining GIScience Education" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 <b>Status:</b> Under Review 
 
 It was invigorating to read Dr. Westerholt's commentary on GIScience education (Westerholt, 2023}. However, the underlying assumption that GIScience should exist as an independent research subject raises some concerns. In this article, I contend that the interdisciplinary nature brings substantial benefits to GIScience and propose potential solutions for attracting researchers from diverse fields to engage in methodological research within the discipline.
 
-The notion that GIScience should function as a "stand-alone" scientific field poses challenges. Given the prevalence of GIScience programs affiliated with geography departments in North America (Gisphere, 2022), the debate surrounding the scientific nature of geography (Castree, 2005) must be considered in the discourse on developing a more robust "GIScience identity". With differing research approaches in physical and human geography, achieving a consensus on establishing GIScience as an ``independent'' research domain becomes arduous. However, rather than perceiving it as a concern, the interdisciplinary nature of GIScience should be regarded as an advantage. GIScience can be marketed as a versatile tool to other disciplines such as transportation planning, civil engineering, environmental resource management, and computer science applications. This broadens the student base and increases enrolment numbers.
+The notion that GIScience should function as a "stand-alone" scientific field poses challenges. Given the prevalence of GIScience programs affiliated with geography departments in North America (Gisphere, 2022), the debate surrounding the scientific nature of geography (Castree, 2005) must be considered in the discourse on developing a more robust "GIScience identity". With differing research approaches in physical and human geography, achieving a consensus on establishing GIScience as an "independent" research domain becomes arduous. However, rather than perceiving it as a concern, the interdisciplinary nature of GIScience should be regarded as an advantage. GIScience can be marketed as a versatile tool to other disciplines such as transportation planning, civil engineering, environmental resource management, and computer science applications. This broadens the student base and increases enrolment numbers.
 
 Considering that GIS is widely recognized as a powerful tool, it is understandable that GIScience applications have gained significant recognition in research. However, the field also demands continuous methodological development. To achieve this, it is essential to attract talented individuals proficient in computer science and mathematics, in addition to geography. The challenging reality is that undergraduate students in geography often require additional time and resources to master programming and statistical skills. Paradoxically, these are often the same students who pursue research degrees in GIScience. The predicament lies in the fact that if employers tend to favour graduates with a background in computer science or mathematics, the question arises as to why competent students would opt to pursue GIScience studies.
 
