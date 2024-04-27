@@ -7,6 +7,10 @@ nav: true
 nav_order: 5
 ---
 
+<a href="../assets/pdf/Panel_GIS_Teaching_April_2024.pdf">Strategies and Resources for Teaching GIS: Insights from AAG 2024</a>
+
+***
+
 <a href="https://www.concordia.ca/academics/undergraduate/calendar/current/section-31-faculty-of-arts-and-science/section-31-130-department-of-geography-planning-and-environment/geography-planning-and-environment-courses.html">GEOG 264</a> Programming for Environmental Sciences 
 
 <b>Syllabus:</b> <a href="../assets/pdf/GEOG264_course_outline_F2023_Sept1.pdf">Fall 2023</a>

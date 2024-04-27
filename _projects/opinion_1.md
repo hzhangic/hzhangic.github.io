@@ -13,7 +13,7 @@ category: Opinion
     </div>
 </div>
 
-<b>Status:</b> Under Review 
+<b>Status:</b> Published
 
 It was invigorating to read Dr. Westerholt's commentary on GIScience education (Westerholt, 2023). However, the underlying assumption that GIScience should exist as an independent research subject raises some concerns. In this article, I contend that the interdisciplinary nature brings substantial benefits to GIScience and propose potential solutions for attracting researchers from diverse fields to engage in methodological research within the discipline.
 
@@ -42,5 +42,7 @@ Castree, N. (2005). Is geography a science? In N. Castree, A. Rogers, and D. She
 GISphere Contributors. (2022). <em>GISphere Guide</em>. <a href="https://gisphere.github.io/">https://gisphere.github.io/</a>. Accessed July 12, 2023.
 
 Westerholt, R. (2023). Teaching GIScience in the multidisciplinary nexus. <em>Journal of Spatial Information Science, 26</em>, 129–136. <a href="https://doi.org/10.5311/JOSIS.2023.26.299">https://doi.org/10.5311/JOSIS.2023.26.299</a>.
+
+<b>Note:</b> A version of this article appears in the <a href="https://josis.org/index.php/josis/article/view/307">Journal of Spatial Information Science</a>. 
 
 <b>Author:</b> Hongyu Zhang

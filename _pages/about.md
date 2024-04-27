@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b>PhD Candidate</b> at <a href='https://www.mcgill.ca/geography/'>McGill Geography</a>
+subtitle: PhD in Geography, McGill University (2024)
 
 profile:
   align: right
