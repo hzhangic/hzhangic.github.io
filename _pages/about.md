@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD in Geography, McGill University (2024)
+subtitle: Privacy, Ethics, GeoAI, and Digital Society 
 
 profile:
   align: right
@@ -19,7 +19,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+<!--
 After obtaining my B.E.S. in Geomatics from the University of Waterloo, I pursued my passion for GIScience by successfully completing my M.Sc. at Western University under the supervision of [Jacek Malczewski](https://geoenvironment.uwo.ca/people/faculty/malczewski_jacek.html). I then worked as an Engineering Support Specialist at [Geotab](https://www.geotab.com/), troubleshooting telematics hardware and software to enhance the customer experience. Now, pursuing my doctoral degree under the guidance of [Grant McKenzie](https://www.mcgill.ca/geography/mckenzie) at McGill University, I explore the fields of behavioural geography, spatial data science, and privacy. As an experienced researcher and instructor with a proven track record in the information technology and services industry, I am proficient in ArcGIS, Python, SQL, and technical support. 
+-->
+
+Hongyu Zhang is a lecturer in Geographic Information Science and Technology (GIST) in the Department of Earth, Geographic, and Climate Sciences at the University of Massachusetts Amherst. He holds a doctoral degree in Geography from McGill University, a Master of Science in Geography from Western University, and a Bachelor’s degree in Geomatics with a minor in Computer Science, along with a Diploma of Excellence in GIS from the University of Waterloo. Before beginning his doctoral studies, Hongyu worked as an engineering support specialist at Geotab. His doctoral dissertation examines geoprivacy attitudes on Chinese social media and explores the factors influencing individuals’ location-disclosure behaviors in computer-mediated environments. These research projects align with his long-term goal of advancing responsible spatial data science to better understand the complex interactions between technology, environment, and society.
 
 ***
 
