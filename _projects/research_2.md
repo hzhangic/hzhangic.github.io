@@ -7,7 +7,7 @@ importance: 2
 category: Research
 ---
 
-<b>Status:</b> Under Review 
+<b>Status:</b> Published
 
 <b>Keywords:</b> location privacy, privacy concerns, knowledge, attitude, behaviour, China
 
@@ -28,4 +28,4 @@ category: Research
 
 <b>Significance:</b> Combined with the uncovering of behavioural change in response to involuntary location disclosure, results of this article challenge the conventional notion that Chinese individuals are indifferent to their online privacy and are thought-provoking to regulators within and outside the socialist country. 
 
-<b>Authors:</b> Hongyu Zhang and Grant McKenzie 
+<b>Reference:</b> Zhang, H., & McKenzie, G. (in press). Geoprivacy knowledge, attitudes, and behaviors in contemporary China. <i>Geographical Review</i>.
